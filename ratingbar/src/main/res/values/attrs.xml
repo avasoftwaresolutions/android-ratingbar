@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RatingBar">
+        <attr name="star_drawable" format="reference"/>
+        <attr name="star_drawable_filled" format="reference"/>
+        <attr name="max_stars" format="integer" />
+        <attr name="stars" format="integer" />
+        <attr name="filled_tint" format="color" />
+        <attr name="unfilled_tint" format="color" />
+    </declare-styleable>
+</resources>
