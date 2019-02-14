@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/avasoftwaresolutions/android-ratingbar.svg)](https://jitpack.io/#avasoftwaresolutions/android-ratingbar)
+
 # Android RatingBar
 
 A simpler RatingBar for Android.
